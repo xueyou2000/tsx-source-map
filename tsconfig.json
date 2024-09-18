@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/src/*": ["./src/*"]
+        },
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "./dist",
+        "sourceMap": true,
+        "allowJs": true,
+        "jsx": "react",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "allowSyntheticDefaultImports": true,
+        "noEmit": false,
+        "removeComments": false,
+    },
+    "include": ["./src/**/*"],
+    "exclude": ["node_modules", "dist"]
+}
