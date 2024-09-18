@@ -7,7 +7,7 @@
   },
   "author": "xueyou",
   "license": "ISC",
-  "description": "",
+  "description": "webpack5  react+ts sourcemap 测试",
   "devDependencies": {
     "ansi-html-community": "^0.0.8",
     "html-webpack-plugin": "^5.6.0",
